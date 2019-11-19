@@ -1,0 +1,10 @@
+﻿  Źródło.c
+C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\PrzetwarzanieObrazow\Źródło.c(56,19): warning C4013:  niezdefiniowany "WczytajPlik"; przy założeniu, że extern zwraca int
+C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\PrzetwarzanieObrazow\Źródło.c(158,33): warning C4020:  "WczytajLiczbe": zbyt wiele parametrów rzeczywistych
+C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\PrzetwarzanieObrazow\Źródło.c(173,33): warning C4020:  "WczytajLiczbe": zbyt wiele parametrów rzeczywistych
+C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\PrzetwarzanieObrazow\Źródło.c(188,33): warning C4020:  "WczytajLiczbe": zbyt wiele parametrów rzeczywistych
+C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\PrzetwarzanieObrazow\Źródło.c(224,81): warning C4020:  "WczytajLiczbe": zbyt wiele parametrów rzeczywistych
+C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\PrzetwarzanieObrazow\Źródło.c(118,7): warning C4101:  "liczba": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\PrzetwarzanieObrazow\Źródło.c(255,43): warning C4029:  zadeklarowana formalna lista parametrów różniąca się od definicji
+C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\PrzetwarzanieObrazow\Źródło.c(308,8): warning C4101:  "wartosc": lokalna zmienna, do której nie istnieje odwołanie
+  PrzetwarzanieObrazow.vcxproj -> C:\Users\Student247291\source\repos\PrzetwarzanieObrazow\Debug\PrzetwarzanieObrazow.exe
